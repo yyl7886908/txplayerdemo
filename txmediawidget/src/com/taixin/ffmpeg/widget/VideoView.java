@@ -240,13 +240,13 @@ public class VideoView extends SurfaceView implements
             mDuration = -1;
             mCurrentBufferPercentage = 0;
             // mMediaPlayer = new AndroidMediaPlayer();
-            TXMediaPlayer ijkMediaPlayer = null;
+            TXMediaPlayer txMediaPlayer = null;
             if (mUri != null) {
-                ijkMediaPlayer = new TXMediaPlayer();
-                ijkMediaPlayer.setAvOption(AvFormatOption_HttpDetectRangeSupport.Disable);
-                ijkMediaPlayer.setOverlayFormat(AvFourCC.SDL_FCC_RV32);
+                txMediaPlayer = new TXMediaPlayer();
+                txMediaPlayer.setAvOption(AvFormatOption_HttpDetectRangeSupport.Disable);
+                txMediaPlayer.setOverlayFormat(AvFourCC.SDL_FCC_RV32);
             }
-            mMediaPlayer = ijkMediaPlayer;
+            mMediaPlayer = txMediaPlayer;
             mMediaPlayer.setOnPreparedListener(mPreparedListener);
             mMediaPlayer.setOnVideoSizeChangedListener(mSizeChangedListener);
             mMediaPlayer.setOnCompletionListener(mCompletionListener);

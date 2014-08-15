@@ -20,6 +20,6 @@ package com.taixin.ffmpeg.widget;
  * configurated by app project
  */
 public class Pragma {
-    //public static final boolean ENABLE_VERBOSE = tv.danmaku.ijk.media.player.pragma.Pragma.ENABLE_VERBOSE;
+    //public static final boolean ENABLE_VERBOSE = tv.danmaku.tx.media.player.pragma.Pragma.ENABLE_VERBOSE;
     public static final boolean ENABLE_VERBOSE = com.taixin.ffmpeg.player.pragma.Pragma.ENABLE_VERBOSE;
 }
