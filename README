@@ -2,11 +2,11 @@ This is a mediaplayer which using txplayer to play videos.
 
 How To Use:
 
-1. Using eclipse to open "txmediaplayer"、"txmediawidget" and "txpalyer" the three android projects. 
+1. Use eclipse to open "txmediaplayer"、"txmediawidget" and "txpalyer" the three android projects. 
 
 2. Project "txmediawidget" depend on project "txmediawidget", Project "txplayer" depend on projects "txmediawidget" and "txmediaplayer", change the progject`s build path.
 
-3. In the project "txplayer", open the file named "com.taixin.ffmpeg.demo.txplayer.java", find var "mVideoPath" and replace it`s value with your video path.
+3. In the project "txplayer", open the file named "com.taixin.ffmpeg.demo.txplayer.java", find the variables "mVideoPath" and replace it`s value with your video path.
 
 4. Then run "txplayer".
 
