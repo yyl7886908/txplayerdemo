@@ -1,7 +1,7 @@
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/obj/local/armeabi-v7a/objs/txsdl/dummy/txsdl_vout_dummy.o: \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/txsdl_vout_dummy.c \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/txsdl_vout_dummy.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_stdinc.h \
+/home/yyl/github/txplayer/android/txmediaplayer/obj/local/armeabi-v7a/objs/txsdl/dummy/txsdl_vout_dummy.o: \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/txsdl_vout_dummy.c \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/txsdl_vout_dummy.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_stdinc.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stddef.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stl/_cprolog.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stl/config/features.h \
@@ -23,9 +23,9 @@
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/_types.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/machine/_types.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_vout.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_stdinc.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_mutex.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_vout.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_stdinc.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_mutex.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/pthread.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stl/_prolog.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/../include/pthread.h \
@@ -61,36 +61,36 @@
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm-generic/signal.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm/sigcontext.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sched.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_video.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_fourcc.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_endian.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_video.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_fourcc.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_endian.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/endian.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/endian.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/machine/endian.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txutil/txutil.h \
+ /home/yyl/github/txplayer/txmedia/txutil/txutil.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stdlib.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/../include/stdlib.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/alloca.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/strings.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/memory.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txutil/txlog.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txutil/android/loghelp.h \
+ /home/yyl/github/txplayer/txmedia/txutil/txlog.h \
+ /home/yyl/github/txplayer/txmedia/txutil/android/loghelp.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/android/log.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stdarg.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txutil/android/txutil_android.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txutil/android/jnihelp.h \
+ /home/yyl/github/txplayer/txmedia/txutil/android/txutil_android.h \
+ /home/yyl/github/txplayer/txmedia/txutil/android/jnihelp.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/jni.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/unistd.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/select.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/sysconf.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/linux/capability.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/pathconf.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_vout_internal.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_vout.h
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_vout_internal.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_vout.h
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/txsdl_vout_dummy.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/txsdl_vout_dummy.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_stdinc.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_stdinc.h:
 
 /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stddef.h:
 
@@ -134,11 +134,11 @@
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_vout.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_vout.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_stdinc.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_stdinc.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_mutex.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_mutex.h:
 
 /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/pthread.h:
 
@@ -210,11 +210,11 @@
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sched.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_video.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_video.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_fourcc.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_fourcc.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_endian.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_endian.h:
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/endian.h:
 
@@ -222,7 +222,7 @@
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/machine/endian.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txutil/txutil.h:
+/home/yyl/github/txplayer/txmedia/txutil/txutil.h:
 
 /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stdlib.h:
 
@@ -234,17 +234,17 @@
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/memory.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txutil/txlog.h:
+/home/yyl/github/txplayer/txmedia/txutil/txlog.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txutil/android/loghelp.h:
+/home/yyl/github/txplayer/txmedia/txutil/android/loghelp.h:
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/android/log.h:
 
 /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stdarg.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txutil/android/txutil_android.h:
+/home/yyl/github/txplayer/txmedia/txutil/android/txutil_android.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txutil/android/jnihelp.h:
+/home/yyl/github/txplayer/txmedia/txutil/android/jnihelp.h:
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/jni.h:
 
@@ -258,6 +258,6 @@
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/pathconf.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_vout_internal.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_vout_internal.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_vout.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/dummy/../txsdl_vout.h:

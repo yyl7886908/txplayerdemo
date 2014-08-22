@@ -1,6 +1,6 @@
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/obj/local/armeabi-v7a/objs/txsdl/txsdl_stdinc.o: \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/txsdl_stdinc.c \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/txsdl_stdinc.h \
+/home/yyl/github/txplayer/android/txmediaplayer/obj/local/armeabi-v7a/objs/txsdl/txsdl_stdinc.o: \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/txsdl_stdinc.c \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/txsdl_stdinc.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stddef.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stl/_cprolog.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stl/config/features.h \
@@ -23,7 +23,7 @@
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/machine/_types.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/txsdl_stdinc.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/txsdl_stdinc.h:
 
 /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stddef.h:
 

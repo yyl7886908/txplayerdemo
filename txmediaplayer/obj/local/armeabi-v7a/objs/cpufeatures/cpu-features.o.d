@@ -1,4 +1,4 @@
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/obj/local/armeabi-v7a/objs/cpufeatures/cpu-features.o: \
+/home/yyl/github/txplayer/android/txmediaplayer/obj/local/armeabi-v7a/objs/cpufeatures/cpu-features.o: \
  /home/yyl/javatool/android-ndk-r9d/sources/android/cpufeatures/cpu-features.c \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/system_properties.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h \

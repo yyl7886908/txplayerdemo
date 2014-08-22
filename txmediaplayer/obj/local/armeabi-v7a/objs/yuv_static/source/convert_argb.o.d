@@ -1,7 +1,7 @@
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/obj/local/armeabi-v7a/objs/yuv_static/source/convert_argb.o: \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/source/convert_argb.cc \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/convert_argb.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/basic_types.h \
+/home/yyl/github/txplayer/android/txmediaplayer/obj/local/armeabi-v7a/objs/yuv_static/source/convert_argb.o: \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/source/convert_argb.cc \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/convert_argb.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/basic_types.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stddef.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stl/_cprolog.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stl/config/features.h \
@@ -31,14 +31,14 @@
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/linux/types.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/machine/kernel.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/convert_from.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/rotate.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/planar_functions.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/convert.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/cpu_id.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/format_conversion.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/rotate_argb.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/row.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/convert_from.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/rotate.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/planar_functions.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/convert.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/cpu_id.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/format_conversion.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/rotate_argb.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/row.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stdlib.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/../include/stdlib.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/string.h \
@@ -47,11 +47,11 @@
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/alloca.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/strings.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/memory.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/video_common.h
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/video_common.h
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/convert_argb.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/convert_argb.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/basic_types.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/basic_types.h:
 
 /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stddef.h:
 
@@ -111,21 +111,21 @@
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/convert_from.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/convert_from.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/rotate.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/rotate.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/planar_functions.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/planar_functions.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/convert.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/convert.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/cpu_id.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/cpu_id.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/format_conversion.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/format_conversion.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/rotate_argb.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/rotate_argb.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/row.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/row.h:
 
 /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stdlib.h:
 
@@ -143,4 +143,4 @@
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/memory.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/video_common.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/video_common.h:

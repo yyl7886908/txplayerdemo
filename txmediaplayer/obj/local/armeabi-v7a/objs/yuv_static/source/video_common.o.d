@@ -1,7 +1,7 @@
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/obj/local/armeabi-v7a/objs/yuv_static/source/video_common.o: \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/source/video_common.cc \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/video_common.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/basic_types.h \
+/home/yyl/github/txplayer/android/txmediaplayer/obj/local/armeabi-v7a/objs/yuv_static/source/video_common.o: \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/source/video_common.cc \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/video_common.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/basic_types.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stddef.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stl/_cprolog.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stl/config/features.h \
@@ -32,9 +32,9 @@
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/machine/kernel.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/video_common.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/video_common.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/basic_types.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/basic_types.h:
 
 /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stddef.h:
 

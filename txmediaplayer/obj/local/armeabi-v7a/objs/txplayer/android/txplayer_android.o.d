@@ -1,6 +1,6 @@
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/obj/local/armeabi-v7a/objs/txplayer/android/txplayer_android.o: \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/txplayer_android.c \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/txplayer_android.h \
+/home/yyl/github/txplayer/android/txmediaplayer/obj/local/armeabi-v7a/objs/txplayer/android/txplayer_android.o: \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/txplayer_android.c \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/txplayer_android.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/jni.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h \
@@ -19,20 +19,20 @@
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stl/_epilog.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../txplayer.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffmsg_queue.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffinc.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../txplayer.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffmsg_queue.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffinc.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/assert.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/../include/assert.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/avstring.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/avstring.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stddef.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/stdint.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/_types.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/machine/_types.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/attributes.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/time.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavformat/avformat.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/attributes.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/time.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavformat/avformat.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/time.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/../include/time.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/time.h \
@@ -50,16 +50,16 @@
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm-generic/siginfo.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stdio.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/../include/stdio.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavcodec/avcodec.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavcodec/avcodec.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/errno.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/../include/errno.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/linux/errno.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm/errno.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm-generic/errno.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm-generic/errno-base.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/samplefmt.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/avutil.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/common.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/samplefmt.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/avutil.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/common.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/inttypes.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/limits.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/../include/limits.h \
@@ -79,53 +79,53 @@
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/alloca.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/strings.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/memory.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/version.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/macros.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/avconfig.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/mem.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/error.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/mathematics.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/rational.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/intfloat.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/log.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/pixfmt.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/old_pix_fmts.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/attributes.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/avutil.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/buffer.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/cpu.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/channel_layout.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/dict.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/frame.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/buffer.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/dict.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/samplefmt.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/log.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/pixfmt.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/rational.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavcodec/version.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/version.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/mem.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavcodec/old_codec_ids.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/common.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavformat/avio.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavformat/version.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavcodec/avfft.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libswscale/swscale.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libswscale/version.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/opt.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libswresample/swresample.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libswresample/version.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavformat/ijkavfmsg.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl_audio.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl_stdinc.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl_endian.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/version.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/macros.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/avconfig.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/mem.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/error.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/mathematics.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/rational.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/intfloat.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/log.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/pixfmt.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/old_pix_fmts.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/attributes.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/avutil.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/buffer.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/cpu.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/channel_layout.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/dict.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/frame.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/buffer.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/dict.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/samplefmt.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/log.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/pixfmt.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/rational.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavcodec/version.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/version.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/mem.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavcodec/old_codec_ids.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/common.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavformat/avio.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavformat/version.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavcodec/avfft.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libswscale/swscale.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libswscale/version.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/opt.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libswresample/swresample.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libswresample/version.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavformat/ijkavfmsg.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/txsdl.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/txsdl_audio.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/txsdl_stdinc.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/txsdl_endian.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/endian.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/endian.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/machine/endian.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl_aout.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl_mutex.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/txsdl_aout.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/txsdl_mutex.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/pthread.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stl/_prolog.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/../include/pthread.h \
@@ -135,50 +135,50 @@
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm-generic/signal.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm/sigcontext.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sched.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl_error.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl_thread.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl_timer.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl_video.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl_fourcc.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl_vout.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/ffmpeg/txsdl_vout_overlay_ffmpeg.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/ffmpeg/../txsdl_stdinc.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/ffmpeg/../txsdl_vout.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/ffmpeg/txsdl_inc_ffmpeg.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/imgutils.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/pixdesc.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/ffmpeg/../txsdl_inc_internal.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txutil/txutil.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txutil/txlog.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txutil/android/loghelp.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/txsdl_error.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/txsdl_thread.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/txsdl_timer.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/txsdl_video.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/txsdl_fourcc.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/txsdl_vout.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/ffmpeg/txsdl_vout_overlay_ffmpeg.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/ffmpeg/../txsdl_stdinc.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/ffmpeg/../txsdl_vout.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/ffmpeg/txsdl_inc_ffmpeg.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/imgutils.h \
+ /home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/pixdesc.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/ffmpeg/../txsdl_inc_internal.h \
+ /home/yyl/github/txplayer/txmedia/txutil/txutil.h \
+ /home/yyl/github/txplayer/txmedia/txutil/txlog.h \
+ /home/yyl/github/txplayer/txmedia/txutil/android/loghelp.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/android/log.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txutil/android/txutil_android.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txutil/android/jnihelp.h \
+ /home/yyl/github/txplayer/txmedia/txutil/android/txutil_android.h \
+ /home/yyl/github/txplayer/txmedia/txutil/android/jnihelp.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/unistd.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/select.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/sysconf.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/linux/capability.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/pathconf.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/ffmpeg/../txsdl_stdinc.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffmsg.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/android/txsdl_android.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/android/../txsdl.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/android/txsdl_aout_android_audiotrack.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/android/../txsdl_aout.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/android/txsdl_vout_android_nativewindow.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/android/../txsdl_stdinc.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/android/../txsdl_vout.h \
- /home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/android/txsdl_vout_android_surface.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_fferror.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffplay.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffplay_def.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffplay_config.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_fferror.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../txplayer_internal.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffplay.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../txplayer.h
+ /home/yyl/github/txplayer/txmedia/txsdl/ffmpeg/../txsdl_stdinc.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffmsg.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/android/txsdl_android.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/android/../txsdl.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/android/txsdl_aout_android_audiotrack.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/android/../txsdl_aout.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/android/txsdl_vout_android_nativewindow.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/android/../txsdl_stdinc.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/android/../txsdl_vout.h \
+ /home/yyl/github/txplayer/txmedia/txsdl/android/txsdl_vout_android_surface.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_fferror.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffplay.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffplay_def.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffplay_config.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_fferror.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../txplayer_internal.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffplay.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../txplayer.h
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/txplayer_android.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/txplayer_android.h:
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/jni.h:
 
@@ -216,17 +216,17 @@
 
 /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../txplayer.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../txplayer.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffmsg_queue.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffmsg_queue.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffinc.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffinc.h:
 
 /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/assert.h:
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/../include/assert.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/avstring.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/avstring.h:
 
 /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stddef.h:
 
@@ -238,11 +238,11 @@
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/attributes.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/attributes.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/time.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/time.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavformat/avformat.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavformat/avformat.h:
 
 /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/time.h:
 
@@ -278,7 +278,7 @@
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/../include/stdio.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavcodec/avcodec.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavcodec/avcodec.h:
 
 /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/errno.h:
 
@@ -292,11 +292,11 @@
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm-generic/errno-base.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/samplefmt.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/samplefmt.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/avutil.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/avutil.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/common.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/common.h:
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/inttypes.h:
 
@@ -336,89 +336,89 @@
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/memory.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/version.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/version.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/macros.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/macros.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/avconfig.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/avconfig.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/mem.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/mem.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/error.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/error.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/mathematics.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/mathematics.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/rational.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/rational.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/intfloat.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/intfloat.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/log.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/log.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/pixfmt.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/pixfmt.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/old_pix_fmts.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/old_pix_fmts.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/attributes.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/attributes.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/avutil.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/avutil.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/buffer.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/buffer.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/cpu.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/cpu.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/channel_layout.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/channel_layout.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/dict.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/dict.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/frame.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/frame.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/buffer.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/buffer.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/dict.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/dict.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/samplefmt.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/samplefmt.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/log.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/log.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/pixfmt.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/pixfmt.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/rational.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/rational.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavcodec/version.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavcodec/version.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/version.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/version.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/mem.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/mem.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavcodec/old_codec_ids.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavcodec/old_codec_ids.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/common.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/common.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavformat/avio.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavformat/avio.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavformat/version.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavformat/version.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavcodec/avfft.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavcodec/avfft.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libswscale/swscale.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libswscale/swscale.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libswscale/version.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libswscale/version.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/opt.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/opt.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libswresample/swresample.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libswresample/swresample.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libswresample/version.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libswresample/version.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavformat/ijkavfmsg.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavformat/ijkavfmsg.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl.h:
+/home/yyl/github/txplayer/txmedia/txsdl/txsdl.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl_audio.h:
+/home/yyl/github/txplayer/txmedia/txsdl/txsdl_audio.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl_stdinc.h:
+/home/yyl/github/txplayer/txmedia/txsdl/txsdl_stdinc.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl_endian.h:
+/home/yyl/github/txplayer/txmedia/txsdl/txsdl_endian.h:
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/endian.h:
 
@@ -426,9 +426,9 @@
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/machine/endian.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl_aout.h:
+/home/yyl/github/txplayer/txmedia/txsdl/txsdl_aout.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl_mutex.h:
+/home/yyl/github/txplayer/txmedia/txsdl/txsdl_mutex.h:
 
 /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/pthread.h:
 
@@ -448,43 +448,43 @@
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sched.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl_error.h:
+/home/yyl/github/txplayer/txmedia/txsdl/txsdl_error.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl_thread.h:
+/home/yyl/github/txplayer/txmedia/txsdl/txsdl_thread.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl_timer.h:
+/home/yyl/github/txplayer/txmedia/txsdl/txsdl_timer.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl_video.h:
+/home/yyl/github/txplayer/txmedia/txsdl/txsdl_video.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl_fourcc.h:
+/home/yyl/github/txplayer/txmedia/txsdl/txsdl_fourcc.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/txsdl_vout.h:
+/home/yyl/github/txplayer/txmedia/txsdl/txsdl_vout.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/ffmpeg/txsdl_vout_overlay_ffmpeg.h:
+/home/yyl/github/txplayer/txmedia/txsdl/ffmpeg/txsdl_vout_overlay_ffmpeg.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/ffmpeg/../txsdl_stdinc.h:
+/home/yyl/github/txplayer/txmedia/txsdl/ffmpeg/../txsdl_stdinc.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/ffmpeg/../txsdl_vout.h:
+/home/yyl/github/txplayer/txmedia/txsdl/ffmpeg/../txsdl_vout.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/ffmpeg/txsdl_inc_ffmpeg.h:
+/home/yyl/github/txplayer/txmedia/txsdl/ffmpeg/txsdl_inc_ffmpeg.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/imgutils.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/imgutils.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/build/ffmpeg-armv7a/output/include/libavutil/pixdesc.h:
+/home/yyl/github/txplayer/android/build/ffmpeg-armv7a/output/include/libavutil/pixdesc.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/ffmpeg/../txsdl_inc_internal.h:
+/home/yyl/github/txplayer/txmedia/txsdl/ffmpeg/../txsdl_inc_internal.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txutil/txutil.h:
+/home/yyl/github/txplayer/txmedia/txutil/txutil.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txutil/txlog.h:
+/home/yyl/github/txplayer/txmedia/txutil/txlog.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txutil/android/loghelp.h:
+/home/yyl/github/txplayer/txmedia/txutil/android/loghelp.h:
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/android/log.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txutil/android/txutil_android.h:
+/home/yyl/github/txplayer/txmedia/txutil/android/txutil_android.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txutil/android/jnihelp.h:
+/home/yyl/github/txplayer/txmedia/txutil/android/jnihelp.h:
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/unistd.h:
 
@@ -496,38 +496,38 @@
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/pathconf.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/ffmpeg/../txsdl_stdinc.h:
+/home/yyl/github/txplayer/txmedia/txsdl/ffmpeg/../txsdl_stdinc.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffmsg.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffmsg.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/android/txsdl_android.h:
+/home/yyl/github/txplayer/txmedia/txsdl/android/txsdl_android.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/android/../txsdl.h:
+/home/yyl/github/txplayer/txmedia/txsdl/android/../txsdl.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/android/txsdl_aout_android_audiotrack.h:
+/home/yyl/github/txplayer/txmedia/txsdl/android/txsdl_aout_android_audiotrack.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/android/../txsdl_aout.h:
+/home/yyl/github/txplayer/txmedia/txsdl/android/../txsdl_aout.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/android/txsdl_vout_android_nativewindow.h:
+/home/yyl/github/txplayer/txmedia/txsdl/android/txsdl_vout_android_nativewindow.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/android/../txsdl_stdinc.h:
+/home/yyl/github/txplayer/txmedia/txsdl/android/../txsdl_stdinc.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/android/../txsdl_vout.h:
+/home/yyl/github/txplayer/txmedia/txsdl/android/../txsdl_vout.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/txmedia/txsdl/android/txsdl_vout_android_surface.h:
+/home/yyl/github/txplayer/txmedia/txsdl/android/txsdl_vout_android_surface.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_fferror.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_fferror.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffplay.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffplay.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffplay_def.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffplay_def.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffplay_config.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffplay_config.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_fferror.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_fferror.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../txplayer_internal.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../txplayer_internal.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffplay.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../ff_ffplay.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../txplayer.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txplayer/android/../txplayer.h:

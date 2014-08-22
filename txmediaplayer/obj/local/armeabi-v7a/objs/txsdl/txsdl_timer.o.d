@@ -1,7 +1,7 @@
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/obj/local/armeabi-v7a/objs/txsdl/txsdl_timer.o: \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/txsdl_timer.c \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/txsdl_timer.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/txsdl_stdinc.h \
+/home/yyl/github/txplayer/android/txmediaplayer/obj/local/armeabi-v7a/objs/txsdl/txsdl_timer.o: \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/txsdl_timer.c \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/txsdl_timer.h \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/txsdl_stdinc.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stddef.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stl/_cprolog.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stl/config/features.h \
@@ -60,9 +60,9 @@
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/time.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/../include/time.h
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/txsdl_timer.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/txsdl_timer.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txsdl/txsdl_stdinc.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txsdl/txsdl_stdinc.h:
 
 /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stddef.h:
 

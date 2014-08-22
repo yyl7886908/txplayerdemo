@@ -1,6 +1,6 @@
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/obj/local/armeabi-v7a/objs/yuv_static/source/rotate_mips.o: \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/source/rotate_mips.cc \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/row.h \
+/home/yyl/github/txplayer/android/txmediaplayer/obj/local/armeabi-v7a/objs/yuv_static/source/rotate_mips.o: \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/source/rotate_mips.cc \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/row.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stdlib.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stl/_cprolog.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stl/config/features.h \
@@ -38,9 +38,9 @@
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/memory.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stl/_epilog.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/basic_types.h
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/basic_types.h
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/row.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/row.h:
 
 /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stdlib.h:
 
@@ -116,4 +116,4 @@
 
 /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/basic_types.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txyuv/include/libyuv/basic_types.h:

@@ -1,6 +1,6 @@
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/obj/local/armeabi-v7a/objs/txutil_android_cpp/android/jnihelp.o: \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txutil/android/jnihelp.cpp \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txutil/android/jnihelp.h \
+/home/yyl/github/txplayer/android/txmediaplayer/obj/local/armeabi-v7a/objs/txutil_android_cpp/android/jnihelp.o: \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txutil/android/jnihelp.cpp \
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txutil/android/jnihelp.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/jni.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h \
@@ -67,9 +67,9 @@
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/../include/stdio.h \
  /home/yyl/javatool/android-ndk-r9d/sources/cxx-stl/stlport/stlport/assert.h \
  /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/../include/assert.h \
- /home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txutil/android/loghelp.h
+ /home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txutil/android/loghelp.h
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txutil/android/jnihelp.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txutil/android/jnihelp.h:
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/jni.h:
 
@@ -203,4 +203,4 @@
 
 /home/yyl/javatool/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/../include/assert.h:
 
-/home/yyl/ffmpeg_player/ijkplayer/android/txmediaplayer/jni/txmedia/txutil/android/loghelp.h:
+/home/yyl/github/txplayer/android/txmediaplayer/jni/txmedia/txutil/android/loghelp.h:
