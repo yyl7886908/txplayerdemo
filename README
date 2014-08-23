@@ -4,7 +4,7 @@ How To Use:
 
 1. Use eclipse to open "txmediaplayer"、"txmediawidget" and "txpalyer" the three android projects. 
 
-2. Project "txmediawidget" depend on project "txmediawidget", Project "txplayer" depend on projects "txmediawidget" and "txmediaplayer", change the progject`s build path.
+2. Project "txmediawidget" depend on project "txmediaplayer", Project "txplayer" depend on projects "txmediawidget" and "txmediaplayer", change the progject`s build path.
 
 3. In the project "txplayer", open the file named "com.taixin.ffmpeg.demo.txplayer.java", find the variables "mVideoPath" and replace it`s value with your video path.
 
